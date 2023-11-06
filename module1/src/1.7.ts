@@ -1,7 +1,7 @@
 {
     //spread operator
     //rest operator
-    // destructuring
+   
 
    //learn spread operator
     const bros1: string[] = ["tanmoy", "nahid", "mejhba"];
